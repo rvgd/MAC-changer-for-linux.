@@ -14,4 +14,11 @@ Changing the assigned MAC address may allow the user to bypass access control li
 
 
 # How to run 
-sudo python3 
+For help
+```
+$ python3 macchanger.py --help
+```
+TO run 
+```
+$ sudo python macchanger.py -i [Interface] -m [New mac]
+```
